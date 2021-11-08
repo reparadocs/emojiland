@@ -1,5 +1,9 @@
 # emojiland
 
+### Blog post coming this week explaining how I built this!
+
+Follow me on [twitter](https://twitter.com/rishab_hegde) for updates
+
 ### React
 
 The `react` folder contains the frontend code that you see on the site https://emojiland.xyz
