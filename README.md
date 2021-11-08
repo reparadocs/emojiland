@@ -1,6 +1,6 @@
 # emojiland
 
-### Blog post coming this week explaining how I built this!
+### Blog post coming this week explaining parts of the code/how I built this!
 
 Follow me on [twitter](https://twitter.com/rishab_hegde) for updates
 
